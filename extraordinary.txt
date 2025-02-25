@@ -1,1 +1,3 @@
 This is a part of a new branch.
+
+This is a look after deleting a branch.
